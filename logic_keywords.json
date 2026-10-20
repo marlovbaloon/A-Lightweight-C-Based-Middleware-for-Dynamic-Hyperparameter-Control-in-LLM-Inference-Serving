@@ -1,0 +1,9 @@
+{
+  "intent": "logic_focus",
+  "keywords": ["analyze", "network", "code", "system", "error", "math"],
+  "state": {
+    "logic_focus": 0.90,
+    "relational_distance": 0.30,
+    "agency_drive": 0.75
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "intent": "casual_chat",
+  "keywords": ["hello", "hi", "fun", "chat", "joke"],
+  "state": {
+    "logic_focus": 0.20,
+    "relational_distance": 0.70,
+    "agency_drive": 0.40
+  }
+}
